@@ -92,7 +92,7 @@ ___强调___<br>
 [百度一下-你就知道](http://www.baidu.com "百度一下")
 ```
 效果：<br>
-[百度一下-你就知道](http://www.baidu.com "百度一下")
+[baidu.jpg](http://www.baidu.com "百度一下")
 
 ### 七、图片：![]( "title")
 代码：
