@@ -92,15 +92,15 @@ ___强调___<br>
 [百度一下-你就知道](http://www.baidu.com "百度一下")
 ```
 效果：<br>
-[baidu.jpg](http://www.baidu.com "百度一下")
+[百度一下-你就知道](http://www.baidu.com "百度一下")
 
 ### 七、图片：![]( "title")
 代码：
 ```
-![百度](http://www.baidu.com "百度图片")
+![baidu](http://www.baidu.com "百度图片")
 ```
 效果：<br>
-![百度](http://www.baidu.com "百度图片")
+![baidu](http://www.baidu.com "百度图片")
 
 ### 八、代码 ：$ <> 会被自动的转换成 HTML 实体
 代码：
